@@ -1,0 +1,10 @@
+.wineTypes {
+    width: 100%;
+    display: flex;
+    justify-content:center;
+}
+
+.wineType {
+    margin-left: 5px;
+    margin-right: 5px;
+}
